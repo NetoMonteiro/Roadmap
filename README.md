@@ -20,7 +20,10 @@
 - [ ] soon...
 
 ## Projetos
-- [x] #### Pessoal /Projeto Starbucks/
+- [x] **Pessoal** Projeto Starbucks
+- [x] **Pessoal** Projeto BeeBurgers
+
+
 
 ## 🎯 Próximos Estudos
 - [ ] Curso de React rocketseat
