@@ -20,7 +20,7 @@
 - [ ] soon...
 
 ## Projetos
-- [ ] Página para PositivePet (em andamento)
+- [x] #### Pessoal /Projeto Starbucks/
 
 ## 🎯 Próximos Estudos
 - [ ] Curso de React rocketseat
