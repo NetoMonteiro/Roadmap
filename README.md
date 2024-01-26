@@ -20,8 +20,8 @@
 - [ ] soon...
 
 ## Projetos
-- [x] **Pessoal** Projeto Starbucks
-- [x] **Pessoal** Projeto BeeBurgers
+- [x] **Pessoal** - Projeto Starbucks | 📅 01/2024 - 📦 
+- [x] **Pessoal** - Projeto Beeburgers | 📅 01/2024 - 📦
 
 
 
