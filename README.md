@@ -20,8 +20,8 @@
 - [ ] soon...
 
 ## Projetos
-- [x] **Pessoal** - Projeto Starbucks | 📅 01/2024 - 📦 
-- [x] **Pessoal** - Projeto Beeburgers | 📅 01/2024 - 📦
+- [x] **Pessoal** - Projeto Starbucks | 📅 01/2024 - [📦Repositório](https://github.com/NetoMonteiro/Project-Starbucks)
+- [x] **Pessoal** - Projeto Beeburgers | 📅 01/2024 - [📦Repositório]()
 
 
 
